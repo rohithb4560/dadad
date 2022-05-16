@@ -81,3 +81,4 @@ $ npm run test:cov
     "migration:revert": "npm run typeorm -- migration:revert  --config src/infrastructure/configs/database.config",
     "seed:run": "ts-node -r tsconfig-paths/register --project ./tsconfig.json ./node_modules/typeorm-seeding/dist/cli.js seed --root src/infrastructure/configs"
 ```
+# dadad
